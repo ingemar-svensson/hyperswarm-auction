@@ -1,0 +1,19 @@
+{
+  "name": "hyperswarm-auction",
+  "version": "1.0.0",
+  "description": "A Hyperswarm auction for collectibles",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --testTimeout 180000"
+  },
+  "dependencies": {
+    "@hyperswarm/dht": "^6.5.1",
+    "events": "^3.3.0",
+    "hyperswarm": "^4.8.4"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
